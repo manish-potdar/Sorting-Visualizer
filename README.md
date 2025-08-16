@@ -2,7 +2,7 @@
 
 A responsive and interactive web-based tool designed to help you visualize the inner workings of classic sorting algorithms. Watch in real-time as arrays are sorted, with controls for algorithm selection, array size, and animation speed.
 
-![Sorting Visualizer Screenshot](https://drive.google.com/file/d/1TPKhpchfEPd37wsdM5zq594xvwnoVUap/view?usp=drive_link)
+![Sorting Visualizer Screenshot](visualizer.gif)
 
 ---
 
