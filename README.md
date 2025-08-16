@@ -2,8 +2,7 @@
 
 A responsive and interactive web-based tool designed to help you visualize the inner workings of classic sorting algorithms. Watch in real-time as arrays are sorted, with controls for algorithm selection, array size, and animation speed.
 
-![Sorting Visualizer Screenshot](https://placehold.co/800x400/111827/7dd3fc?text=Sorting+Visualizer+in+Action)
-*(Feel free to replace the placeholder above with a screenshot or a GIF of your project!)*
+![Sorting Visualizer Screenshot](https://drive.google.com/file/d/1TPKhpchfEPd37wsdM5zq594xvwnoVUap/view?usp=drive_link)
 
 ---
 
@@ -42,7 +41,7 @@ No complex setup is required! Since this is a pure front-end project, you can ru
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/sorting-visualizer.git](https://github.com/your-username/sorting-visualizer.git)
+    git clone https://github.com/manish-potdar/Sorting-Visualizer.git
     ```
 
 2.  **Navigate to the project directory:**
