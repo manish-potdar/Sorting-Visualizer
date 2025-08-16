@@ -1,0 +1,55 @@
+/* Custom CSS for the application */
+body {
+    font-family: 'Inter', sans-serif;
+}
+
+/* Custom styles for the range inputs to match the theme */
+input[type="range"] {
+    -webkit-appearance: none;
+    appearance: none;
+    background: transparent;
+    cursor: pointer;
+}
+
+/* For Chrome, Safari, Opera, and Edge */
+input[type="range"]::-webkit-slider-runnable-track {
+    background: #4a5568; /* gray-700 */
+    height: 0.5rem;
+    border-radius: 0.5rem;
+}
+
+input[type="range"]::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    appearance: none;
+    margin-top: -4px;
+    background-color: #2dd4bf; /* cyan-400 */
+    height: 1.25rem;
+    width: 1.25rem;
+    border-radius: 50%;
+    border: 2px solid #1a202c; /* gray-900 */
+}
+
+/* For Firefox */
+input[type="range"]::-moz-range-track {
+    background: #4a5568; /* gray-700 */
+    height: 0.5rem;
+    border-radius: 0.5rem;
+}
+
+input[type="range"]::-moz-range-thumb {
+    background-color: #2dd4bf; /* cyan-400 */
+    height: 1.25rem;
+    width: 1.25rem;
+    border-radius: 50%;
+    border: 2px solid #1a202c; /* gray-900 */
+}
+
+/* Style for individual bars in the visualizer */
+.bar {
+    width: 10px;
+    background-color: #6366f1; /* indigo-500 */
+    margin: 0 1px;
+    transition: height 0.2s ease, background-color 0.2s ease;
+    border-radius: 4px 4px 0 0;
+}
+
